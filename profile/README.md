@@ -1,3 +1,5 @@
+# What is chiquito (pecador plonkish)?
+
 Chiquito is a high-level structured language for implementing zero knowledge proof applications.
 
 Chiquito is being implemented in the DSL Working Group of PSE, Ethereum Foundation.
