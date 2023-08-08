@@ -4,6 +4,14 @@ Chiquito is a high-level structured language for implementing zero knowledge pro
 
 Chiquito is being implemented in the DSL Working Group of PSE, Ethereum Foundation.
 
+<p align="center">
+  <img src="https://hackmd.io/_uploads/HyuEr1cB2.png" width="180" 
+height="80" alt="Image 2">
+  &nbsp; &nbsp; &nbsp;
+  <img src="https://hackmd.io/_uploads/HyZ0rycS2.png" width="70" 
+height="100" alt="Image 3">
+</p>
+
 ## Why is chiquito different from other ZKP DSLs?
 
 Most ZKP DSLs are based on writing constraints, witness generation and some abstration for DRY like templates or gadgets.
